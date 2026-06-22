@@ -35,9 +35,8 @@
   description: job-description-station-ai
   playTimeTracker: JobStationAi
   requirements:
-  - !type:RoleTimeRequirement
-    role: JobBorg
-    time: 18000  # 5 hrs
+  - !type:OverallPlaytimeRequirement
+    time: 7200  # 2 hrs
   canBeAntag: false
   #goobcoins: 40 #Goob content Corvax-Goob-coins
   skills: # CorvaxGoob-Skills
@@ -56,7 +55,7 @@
   playTimeTracker: JobBorg
   requirements:
     - !type:OverallPlaytimeRequirement
-      time: 36000 # 10 hrs
+      time: 3600 # 1 hrs
   canBeAntag: false
   #goobcoins: 20 #Goob content Corvax-Goob-coins
   skills: # CorvaxGoob-Skills

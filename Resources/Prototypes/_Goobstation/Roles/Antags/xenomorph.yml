@@ -5,6 +5,4 @@
   setPreference: true
   objective: roles-antag-xenomorph-objective
   guides: [ Xenomorphs ]
-  requirements:
-  - !type:OverallPlaytimeRequirement
-    time: 180000
+  

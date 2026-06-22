@@ -139,18 +139,10 @@
   description: job-description-hos
   playTimeTracker: JobHeadOfSecurity
   requirements:
-    - !type:RoleTimeRequirement
-      role: JobWarden
-      time: 21600 # CorvaxGoob 5 hrs -> 6 hrs
-    - !type:RoleTimeRequirement
-      role: JobSecurityOfficer
-      time: 36000 # 10 hrs
-    - !type:RoleTimeRequirement
-      role: JobDetective
-      time: 7200 # CorvaxGoob 1 hour -> 2 hour
+    
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 72000 # CorvaxGoob 10 hrs -> 20 hrs
+      time: 7200 # 2 hrs
     - !type:SpeciesRequirement # Goob - None Felinid
       inverted: true
       species:

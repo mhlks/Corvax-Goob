@@ -71,8 +71,7 @@
   description: job-description-lawyer
   playTimeTracker: JobLawyer
   requirements:
-    - !type:OverallPlaytimeRequirement
-      time: 9000 # 2.5 hrs
+    
     - !type:SpeciesRequirement # CorvaxGoob-Species
       inverted: true
       species:
