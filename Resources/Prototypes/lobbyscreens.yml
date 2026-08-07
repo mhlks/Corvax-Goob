@@ -273,7 +273,7 @@
 #   artist: blooodyspy
 
 - type: lobbyBackground
-  id: best
-  background: /Textures/LobbyScreens/best.png
-  title: Рыгалдо STATION 1488
-  artist: provinxxe
+  id: pers_art
+  background: /Textures/LobbyScreens/art_rigaldo.webp
+  title: Милый сборник
+  artist: provinxxe # что то не так?
