@@ -117,32 +117,44 @@
 - type: soundCollection
   id: LobbyMusic
   files:
-    - /Audio/Lobby/thunderdome.ogg
-    - /Audio/Lobby/absconditus.ogg
-    - /Audio/Lobby/space_asshole.ogg
-    - /Audio/Lobby/endless_space.ogg
-    - /Audio/Lobby/singuloose.ogg
-    - /Audio/Lobby/comet_haley.ogg
-    - /Audio/Lobby/title2.ogg
-    - /Audio/Lobby/title3.ogg
-    - /Audio/Lobby/mod.flip-flap.ogg
-    - /Audio/Lobby/Spac_Stac.ogg
-    - /Audio/Lobby/pwmur.ogg
-    - /Audio/Lobby/lasers_rip_apart_the_bulkhead.ogg
-    - /Audio/Lobby/every_light_is_blinking_at_once.ogg
-    - /Audio/Lobby/atomicamnesiammx.ogg
-    # Goobstation - Custom lobby music
-    - /Audio/Lobby/skubstep.ogg
-    - /Audio/Lobby/sneedsfeedandseed.ogg
-    - /Audio/Lobby/clownalwayswins.ogg
-    - /Audio/Lobby/clownwmv.ogg
-    - /Audio/Lobby/dawsonschristian.ogg
-    - /Audio/Lobby/thewizard.ogg
-    - /Audio/Lobby/skubstub.ogg
-    - /Audio/Lobby/space_radiation.ogg
-    - /Audio/Lobby/redsun.ogg
-    - /Audio/Lobby/chollima.ogg
-    - /Audio/Lobby/monument.ogg
-    - /Audio/Lobby/marhaba.ogg
-    - /Audio/Lobby/the_future_soon.ogg
-    - /Audio/Lobby/horn.ogg
+    # - /Audio/Lobby/thunderdome.ogg
+    # - /Audio/Lobby/absconditus.ogg
+    # - /Audio/Lobby/space_asshole.ogg
+    # - /Audio/Lobby/endless_space.ogg
+    # - /Audio/Lobby/singuloose.ogg
+    # - /Audio/Lobby/comet_haley.ogg
+    # - /Audio/Lobby/title2.ogg
+    # - /Audio/Lobby/title3.ogg
+    # - /Audio/Lobby/mod.flip-flap.ogg
+    # - /Audio/Lobby/Spac_Stac.ogg
+    # - /Audio/Lobby/pwmur.ogg
+    # - /Audio/Lobby/lasers_rip_apart_the_bulkhead.ogg
+    # - /Audio/Lobby/every_light_is_blinking_at_once.ogg
+    # - /Audio/Lobby/atomicamnesiammx.ogg
+    # # Goobstation - Custom lobby music
+    # - /Audio/Lobby/skubstep.ogg
+    # - /Audio/Lobby/sneedsfeedandseed.ogg
+    # - /Audio/Lobby/clownalwayswins.ogg
+    # - /Audio/Lobby/clownwmv.ogg
+    # - /Audio/Lobby/dawsonschristian.ogg
+    # - /Audio/Lobby/thewizard.ogg
+    # - /Audio/Lobby/skubstub.ogg
+    # - /Audio/Lobby/space_radiation.ogg
+    # - /Audio/Lobby/redsun.ogg
+    # - /Audio/Lobby/chollima.ogg
+    # - /Audio/Lobby/monument.ogg
+    # - /Audio/Lobby/marhaba.ogg
+    # - /Audio/Lobby/the_future_soon.ogg
+    # - /Audio/Lobby/horn.ogg
+    - /Audio/_provinxxe/Lobby/audio_2026-07-06_12-36-42.ogg
+    - /Audio/_provinxxe/Lobby/Kiss the Ladder - Fleshwater.ogg
+    - /Audio/_provinxxe/Lobby/Komak The Maid x Takai The Maid - They Know You're A Liar.ogg
+    - /Audio/_provinxxe/Lobby/Chikoi The Maid - parametric.ogg
+    - /Audio/_provinxxe/Lobby/Chikoi_The_Maid_-_Scarlet⧸a#.ogg
+    - /Audio/_provinxxe/Lobby/I Still Love You - Dan Salvato.ogg
+    - /Audio/_provinxxe/Lobby/Loose Cannon - Puzzle.ogg
+    - /Audio/_provinxxe/Lobby/Metapharstic - Aphex Twin.ogg
+    - /Audio/_provinxxe/Lobby/Minutes to Midnight - Geneburn.ogg
+    - /Audio/_provinxxe/Lobby/Sunflower - Akui The Maid.ogg
+    - /Audio/_provinxxe/Lobby/Thinking - Nikita Kryukov.ogg
+    - /Audio/_provinxxe/Lobby/smthonjpns - Rory in early 20s.ogg # лээээ сука я старался rabotay blya!!!
