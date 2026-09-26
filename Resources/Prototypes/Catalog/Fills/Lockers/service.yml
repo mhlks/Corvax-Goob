@@ -68,6 +68,7 @@
     - id: DrinkShaker
     - id: ClothingEyesHudBeer
     - id: HandLabeler
+    - id: HookahBase    #SS220 hookah портируем хулэ - mhlks
     - id: WeaponRussianRevolver # Goobstation
     - id: MagazineBoxMagnumPractice # Goobstation
     - id: DrinkBottleBeer

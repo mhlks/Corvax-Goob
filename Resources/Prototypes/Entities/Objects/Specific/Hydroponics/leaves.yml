@@ -311,6 +311,9 @@
         reagents:
         - ReagentId: Nicotine
           Quantity: 2
+  - type: Tag
+    tags:
+      - Tobacco # тэг что бы можно было раскурчик делать вась
   - type: Sprite
     sprite: Objects/Specific/Hydroponics/tobacco.rsi
     state: dried
