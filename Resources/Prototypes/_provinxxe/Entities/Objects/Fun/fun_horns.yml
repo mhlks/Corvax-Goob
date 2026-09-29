@@ -1,0 +1,41 @@
+- type: entity
+  parent: BaseItem
+  name: Потайной инструмент клуни "Эпсилон"
+    
+  id: CLownHorn_epsilon
+  description: Я бы не пробовал.. без разрешения ЦК.
+  components:
+  - type: Sprite
+    sprite: Objects/Fun/goldbikehorn.rsi
+    state: icon
+
+  - type: Item
+    sprite: Objects/Fun/bikehorn.rsi
+    state: icon
+
+  - type: EmitSoundOnUse
+    sound: /Audio/Misc/epsilon.ogg
+
+  - type: UseDelay
+    delay: 21.0
+    
+- type: entity
+  parent: BaseItem
+  name: Потайной инструмент клуни "Гамма"
+
+  id: ClownHorn_gamma
+  description: Я бы не пробовал.. без разрешения ЦК.
+  components:
+  - type: Sprite
+    sprite: Textures/Object/Fun/bikehorn.rsi
+    state: icon
+
+  - type: Item
+    sprite: Objects/Fun/bikehorn.rsi
+    size: Tiny
+
+  - type: EmitSoundOnUse
+    sound: /Audio/Misc/gamma.ogg
+
+  - type: UseDelay
+    delay: 12.0
