@@ -60,3 +60,8 @@ alert-level-octarine-instructions = Crewmembers are advised to listen to heads o
 alert-level-honk = Honk
 alert-level-honk-announcement = A devious clown is on the loose and will cause cataclysmic damage if not executed! All crewmembers must collaborate in executing the clown if possible, or else evacuate.
 alert-level-honk-instructions = Crewmembers are advised to execute the clown.
+
+## provinxxe
+alert-level-bog = ???
+alert-level-bog-announcement = Central Command has set the [CRYPTED] security level. Wish yourself luck.
+alert-level-bog-instructions = You are advised to listen to heads of staff.

@@ -133,7 +133,7 @@
       announcement: alert-level-gamma-announcement
       selectable: false
       sound:
-        path: /Audio/_CorvaxGoob/Misc/siren.ogg # CorvaxGoob: return old gamma sound
+        path: /Audio/Misc/gamma.ogg # CorvaxGoob: return old gamma sound # provinxxe - FUCK YOUR OLD SOUND!!!!!!!!!
         params:
           volume: -2
       disableSelection: true
@@ -196,3 +196,15 @@
       emergencyLightColor: Magenta
       forceEnableEmergencyLights: true
       shuttleTime: 600
+
+    Bog:
+      announcement: alert-level-bog-announcement
+      selectable: false
+      sound:
+        path: /Audio/Ambience/Antag/traitor_start.ogg
+        params:
+          volume: -2
+      disableSelection: true
+      color: "#6E0000"
+      emergencyLightColor: "#6E0000"
+      forceEnableEmergencyLights: true #nu a che, MOGGu sebe pozvolitb - provinxxe
